@@ -1,0 +1,18 @@
+#varibles{
+    background-image: linear-gradient(to right,blue, teal, blue);
+}
+#events{
+    background-image: linear-gradient(to right, red, orange, red);
+}
+#loops{
+    background-image: linear-gradient(to right,green, teal, green);
+}
+#functions{
+    background-image: linear-gradient(to right, purple, indigo, purple);
+}
+#if and else{
+    background-image: linear-gradient(to right, red, black, white, black, red);
+}
+body{
+   background-image: linear-gradient(yellowgreen, red, yellowgreen)
+}
